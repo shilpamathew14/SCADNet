@@ -10,7 +10,7 @@ Initializes the encoder using Stage-1 pretrained weights.
 Trained using Dice + Cross-Entropy loss 
 
 <p align="center">
-  <img src="diagram/scadnet_architecture.png" width="800"/>
+  <img src="diagram/overview_2.png" width="800"/>
 </p>
 
 
