@@ -8,3 +8,9 @@ Integrates saliency-guided augmentations, where lesion-aware saliency maps gener
 ## Stage-2: SCADNet Lesion Segmentation Model
 Initializes the encoder using Stage-1 pretrained weights.
 Trained using Dice + Cross-Entropy loss 
+
+<p align="center">
+  <img src="assets/scadnet_architecture.png" width="800"/>
+</p>
+
+
